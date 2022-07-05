@@ -2,5 +2,7 @@
 
 ## Links Úteis 
 
-https://releases.jquery.com
-https://jqueryui.com/animate/
+[Base](https://releases.jquery.com)
+
+
+[Animações](https://jqueryui.com/animate/)
